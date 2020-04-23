@@ -1,5 +1,6 @@
 # Percona Toolkit
 [![CLA assistant](https://cla-assistant.percona.com/readme/badge/percona/percona-toolkit)](https://cla-assistant.percona.com/percona/percona-toolkit)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fpercona-toolkit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2Fpercona-toolkit?ref=badge_shield)
 
 *Percona Toolkit* is a collection of advanced command-line tools used by
 [Percona](http://www.percona.com/) support staff to perform a variety of
@@ -51,3 +52,7 @@ make
 ```
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fpercona-toolkit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2Fpercona-toolkit?ref=badge_large)
